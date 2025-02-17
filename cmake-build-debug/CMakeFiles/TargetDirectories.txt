@@ -1,0 +1,3 @@
+/Users/nikitaaverkiev/CLionProjects/Kursach/cmake-build-debug/CMakeFiles/Kursach.dir
+/Users/nikitaaverkiev/CLionProjects/Kursach/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitaaverkiev/CLionProjects/Kursach/cmake-build-debug/CMakeFiles/rebuild_cache.dir
