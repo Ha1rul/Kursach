@@ -106,8 +106,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/nikitaaverkiev/CLionProjects/Kursach/cmake-build-debug",
-		"source" : "/Users/nikitaaverkiev/CLionProjects/Kursach"
+		"build" : "/Users/nikitaaverkiev/CLionProjects/kursach/cmake-build-debug",
+		"source" : "/Users/nikitaaverkiev/CLionProjects/kursach"
 	},
 	"version" : 
 	{

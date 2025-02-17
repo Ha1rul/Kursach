@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/nikitaaverkiev/CLionProjects/Kursach/cmake-build-debug"
+			"value" : "/Users/nikitaaverkiev/CLionProjects/kursach/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nikitaaverkiev/CLionProjects/Kursach/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/nikitaaverkiev/CLionProjects/kursach/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nikitaaverkiev/CLionProjects/Kursach/cmake-build-debug"
+			"value" : "/Users/nikitaaverkiev/CLionProjects/kursach/cmake-build-debug"
 		},
 		{
 			"name" : "Kursach_IS_TOP_LEVEL",
@@ -1055,7 +1055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nikitaaverkiev/CLionProjects/Kursach"
+			"value" : "/Users/nikitaaverkiev/CLionProjects/kursach"
 		}
 	],
 	"kind" : "cache",
